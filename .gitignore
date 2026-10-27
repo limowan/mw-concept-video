@@ -1,0 +1,17 @@
+music/samples/
+**/__pycache__/
+node_modules/
+build/
+out/
+*.part
+*.mp4
+*.wav
+.check_status
+config.json
+CLAUDE.md
+AGENTS.md
+*.tmp
+*.log
+
+template/public/fonts/*.ttf
+template/public/grain.png
